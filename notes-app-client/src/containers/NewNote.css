@@ -1,0 +1,21 @@
+.NewNote form {
+    padding-bottom: 15px;
+  }
+  
+.form textarea {
+  height: 300px;
+  font-size: 24px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.theImage {
+  -webkit-box-shadow: 9px 10px 32px -21px rgba(0,0,0,1);
+  -moz-box-shadow: 9px 10px 32px -21px rgba(0,0,0,1);
+  box-shadow: 9px 10px 32px -21px rgba(0,0,0,1);
+}

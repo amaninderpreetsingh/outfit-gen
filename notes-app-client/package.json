@@ -1,0 +1,52 @@
+{
+  "name": "notes-app-client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@material-ui/icons": "^4.2.0",
+    "antd": "^3.19.8",
+    "aws-amplify": "^1.1.29",
+    "material-ui": "^1.0.0-beta.47",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-aspect-ratio": "^1.0.40",
+    "react-bootstrap": "^0.32.4",
+    "react-color": "^2.17.3",
+    "react-color-extractor": "^1.1.2",
+    "react-dom": "^16.8.6",
+    "react-geocode": "^0.1.2",
+    "react-geolocated": "^2.5.0",
+    "react-onclickout": "^2.0.8",
+    "react-onclickoutside": "^6.8.0",
+    "react-router-bootstrap": "^0.25.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "3.0.1",
+    "tinycolor2": "^1.4.1",
+    "universal-cookie": "^4.0.0"
+  },
+  "scripts": {
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+      "start": "react-scripts --openssl-legacy-provider start",
+      "build": "react-scripts --openssl-legacy-provider build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

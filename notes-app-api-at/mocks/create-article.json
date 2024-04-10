@@ -1,0 +1,9 @@
+{
+    "body": "{\"type\":\"Shirt\",\"color\":\"ff0234\",\"url\":\"https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcdna.lystit.com%2Fphotos%2Fd6c9-2015%2F06%2F14%2Fpolo-ralph-lauren-summer-olive-silk-jersey-cargo-pants-green-product-0-965120194-normal.jpeg&f=1\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
+  

@@ -1,0 +1,8 @@
+{
+    "body": "{\"color\":\"red1\",\"url\":\"hello1.jpg\",\"type\":\"check1\",\"createdAt\":\"now1\"}",
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "USER-SUB-1234"
+      }
+    }
+  }
